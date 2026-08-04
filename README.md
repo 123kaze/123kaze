@@ -51,3 +51,5 @@ Open pull request that traces malformed-input panics across Analyzer → Scanner
 <div align="center">
   <sub>Evidence over adjectives. Reproducible results over vanity metrics.</sub>
 </div>
+
+<!-- profile-refresh: 2026-08-04 -->
